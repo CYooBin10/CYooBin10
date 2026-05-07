@@ -27,14 +27,3 @@
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" />
 </p
-
-## Reach Me
-
-<p align="center">
-  <a href="mailto:tranhuybao000@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
-  </a>
-  <a href="https://store.hypertechstudio.xyz/?ref=baotran">
-    <img src="https://img.shields.io/badge/Commercial%20Products-2tech-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="2tech" />
-  </a>
-</p>

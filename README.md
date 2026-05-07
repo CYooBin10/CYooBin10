@@ -26,13 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" />
-</p>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CYooBin10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYooBin10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
-
+</p
 
 ## Reach Me
 

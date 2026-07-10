@@ -77,27 +77,48 @@ My work is guided by three priorities: **reliable architecture, maintainable cod
   <img src="https://img.shields.io/badge/Roblox-111111?style=flat-square&logo=roblox&logoColor=white" alt="Roblox" />
   <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Plugin%20Development-1D4ED8?style=flat-square&logo=github&logoColor=white" alt="Plugin development" />
+
+  <h4>AI-assisted Development</h4>
+  <img src="https://img.shields.io/badge/Claude-AI%20Coding%20Assistant-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-AI%20Coding%20Agent-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </div>
 
 ---
 
 ## Selected Projects
 
-<div align="center">
-  <a href="https://github.com/CYooBin10/XPerms">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CYooBin10&repo=XPerms&theme=tokyonight&hide_border=true" alt="XPerms repository" />
-  </a>
-  <a href="https://github.com/CYooBin10/pxml">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CYooBin10&repo=pxml&theme=tokyonight&hide_border=true" alt="PXML repository" />
-  </a>
-  <a href="https://github.com/CYooBin10/MyLove">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CYooBin10&repo=MyLove&theme=tokyonight&hide_border=true" alt="MyLove repository" />
-  </a>
-  <a href="https://github.com/CYooBin10/VanillaMobs">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CYooBin10&repo=VanillaMobs&theme=tokyonight&hide_border=true" alt="VanillaMobs repository" />
-  </a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CYooBin10/XPerms">XPerms</a></h3>
+      <p>A lightweight permission, rank, prefix, and suffix management plugin for Minecraft Bedrock Endstone servers.</p>
+      <a href="https://github.com/CYooBin10/XPerms/stargazers"><img src="https://img.shields.io/github/stars/CYooBin10/XPerms?style=flat-square&logo=github" alt="XPerms stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/CYooBin10/XPerms?style=flat-square" alt="XPerms last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CYooBin10/pxml">PXML Compiler</a></h3>
+      <p>A structured XML DSL and compiler for AI-driven code generation, manifests, and low-cost self-healing workflows.</p>
+      <a href="https://github.com/CYooBin10/pxml/stargazers"><img src="https://img.shields.io/github/stars/CYooBin10/pxml?style=flat-square&logo=github" alt="PXML stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/CYooBin10/pxml?style=flat-square" alt="PXML last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CYooBin10/MyLove">MyLove</a></h3>
+      <p>A private, mobile-first couples application with memories, milestones, messaging, media, and secure personal data.</p>
+      <a href="https://github.com/CYooBin10/MyLove/stargazers"><img src="https://img.shields.io/github/stars/CYooBin10/MyLove?style=flat-square&logo=github" alt="MyLove stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/CYooBin10/MyLove?style=flat-square" alt="MyLove last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CYooBin10/VanillaMobs">VanillaMobs</a></h3>
+      <p>An optimized PocketMine-MP mob system featuring custom AI, animations, attributes, and movement-based pathfinding.</p>
+      <a href="https://github.com/CYooBin10/VanillaMobs/stargazers"><img src="https://img.shields.io/github/stars/CYooBin10/VanillaMobs?style=flat-square&logo=github" alt="VanillaMobs stars" /></a>
+      <img src="https://img.shields.io/github/last-commit/CYooBin10/VanillaMobs?style=flat-square" alt="VanillaMobs last commit" />
+    </td>
+  </tr>
+</table>
 
-  <br /><br />
+<div align="center">
   <a href="https://github.com/CYooBin10?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
   </a>
@@ -105,10 +126,11 @@ My work is guided by three priorities: **reliable architecture, maintainable cod
 
 ---
 
-## GitHub Achievements
+## GitHub Highlights
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CYooBin10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYooBin10&theme=tokyonight" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYooBin10&theme=tokyonight" alt="Repositories by language" />
 </div>
 
 ---
@@ -118,11 +140,10 @@ My work is guided by three priorities: **reliable architecture, maintainable cod
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYooBin10&theme=tokyonight" alt="GitHub contribution profile" />
   <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CYooBin10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=CYooBin10&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYooBin10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CYooBin10&theme=tokyonight&utcOffset=7" alt="Productive coding time" />
+  <br />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CYooBin10&theme=tokyonight" alt="Most committed languages" />
 </div>
 
 <sub>Language percentages are calculated from public repository code and do not represent proficiency.</sub>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=255&color=0:07111f,45:123a70,100:0891b2&text=최유빈&fontColor=f8fafc&fontSize=68&fontAlignY=40&desc=Backend%20%26%20Game%20Systems%20Developer&descAlignY=61&descSize=20" alt="최유빈 — Backend and Game Systems Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=255&color=0:07111f,45:123a70,100:0891b2&text=최유빈&fontColor=f8fafc&fontSize=68&fontAlignY=40&desc=Backend%20and%20Game%20Systems%20Developer&descAlignY=61&descSize=20" alt="최유빈 — Backend and Game Systems Developer" />
 
   <h3>Building reliable systems, extensible developer tools, and engaging game experiences.</h3>
 

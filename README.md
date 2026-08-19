@@ -34,19 +34,55 @@ Backend architecture · Game infrastructure · Plugin ecosystems · Developer to
 
 ## `01` / PROFILE
 
-I'm **최유빈**, a freelance software developer based in Vietnam, currently working with **2tech**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I design and build systems across **backend engineering, Minecraft infrastructure, game development, plugin architecture, and developer tooling**.
+### 최유빈
 
-I enjoy taking complicated requirements and turning them into systems that are:
+**Backend & Game Systems Developer**
 
-```text
-RELIABLE     →     MAINTAINABLE     →     EXTENSIBLE     →     FAST
-```
+Freelance developer based in Vietnam, currently working with **2tech**.
 
-My main interest lies at the intersection of **software engineering and game systems** — where architecture, performance, automation, and player experience all have to work together.
+I build software across **backend systems, Minecraft infrastructure, game mechanics, plugin ecosystems, and developer tools**.
 
----
+My work is driven by a simple principle:
+
+> **Complex systems should feel simple to use.**
+
+</td>
+
+<td width="40%" valign="top">
+
+### CORE
+
+**Backend**
+Architecture · APIs · Data
+
+**Game Systems**
+AI · Mechanics · Multiplayer
+
+**Infrastructure**
+Plugins · Servers · Tooling
+
+**Engineering**
+Performance · Reliability · Scalability
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARCHITECTURE-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PERFORMANCE-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/RELIABILITY-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MAINTAINABILITY-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+
+</div>
+
 
 ## `02` / ENGINEERING FOCUS
 

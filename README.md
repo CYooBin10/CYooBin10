@@ -1,94 +1,112 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050b14,45:0b2447,100:0891b2&text=최유빈&fontColor=f8fafc&fontSize=64&fontAlignY=38&desc=Backend%20%7C%20Game%20Systems%20%7C%20Developer%20Tools&descAlignY=60&descSize=19&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050B14,50:0B2A4A,100:0891B2&text=최유빈&fontColor=F8FAFC&fontSize=68&fontAlignY=40&desc=BACKEND%20%E2%80%A2%20GAME%20SYSTEMS%20%E2%80%A2%20DEVELOPER%20TOOLS&descAlignY=62&descSize=17"/>
 
-<h2>Building systems that scale beyond the code.</h2>
+<br>
+
+<h2>Building reliable systems with purpose.</h2>
 
 <p>
-Backend architecture • Game infrastructure • Plugin ecosystems • Developer tooling
+Backend architecture · Game infrastructure · Plugin ecosystems · Developer tooling
 </p>
 
-<p>
+<br>
+
 <a href="https://github.com/CYooBin10">
-<img src="https://img.shields.io/badge/GitHub-CYooBin10-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
-<a href="mailto:tranhuybao000@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+&nbsp;
 <a href="https://github.com/CYooBin10?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Projects-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
-</p>
+&nbsp;
+<a href="mailto:tranhuybao000@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=CYooBin10&label=PROFILE%20VIEWS&color=0891B2&style=flat-square"/>
 
 </div>
 
 ---
 
-## `01` — About
+## `01` / PROFILE
 
 I'm **최유빈**, a freelance software developer based in Vietnam, currently working with **2tech**.
 
-I build **backend services, Minecraft infrastructure, game systems, plugin ecosystems, and developer tools**.
+I design and build systems across **backend engineering, Minecraft infrastructure, game development, plugin architecture, and developer tooling**.
 
-My approach is simple:
+I enjoy taking complicated requirements and turning them into systems that are:
 
-> **Design for scale. Build for reliability. Keep the system understandable.**
+```text
+RELIABLE     →     MAINTAINABLE     →     EXTENSIBLE     →     FAST
+```
 
-I enjoy working where **software engineering meets game development** — turning complex mechanics and infrastructure into systems that are performant, extensible, and easy to maintain.
+My main interest lies at the intersection of **software engineering and game systems** — where architecture, performance, automation, and player experience all have to work together.
 
 ---
 
-## `02` — Engineering
+## `02` / ENGINEERING FOCUS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend
+### BACKEND SYSTEMS
 
-Building reliable application infrastructure and services.
+Designing application infrastructure with a focus on reliability and maintainability.
 
-`C++` `Java` `PHP` `Python` `SQL`
-
-`REST APIs` `SQLite` `PostgreSQL`
-
-</td>
-
-<td width="50%">
-
-### Game Systems
-
-Designing mechanics and infrastructure for multiplayer environments.
-
-`Minecraft Bedrock` `PocketMine-MP`
-
-`Endstone` `Roblox` `Luau`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Architecture
-
-* Modular systems
-* Plugin APIs
-* Permission systems
-* Data architecture
+* REST APIs
+* Application architecture
+* Data & storage systems
+* Service design
 * Performance optimization
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### Developer Tools
+### GAME SYSTEMS
+
+Building mechanics and infrastructure for multiplayer environments.
+
+* Gameplay systems
+* Entity & AI systems
+* Progression systems
+* Multiplayer infrastructure
+* Performance optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PLUGIN ARCHITECTURE
+
+Creating extensible ecosystems instead of isolated features.
+
+* Plugin APIs
+* Permission systems
+* Server utilities
+* Modular architecture
+* Developer-facing APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### DEVELOPER TOOLS
+
+Building tools that make complex development workflows simpler.
 
 * Compilers
 * Automation
-* AI-assisted workflows
+* AI-assisted development
+* Code generation
 * Development utilities
-* Self-healing systems
 
 </td>
 </tr>
@@ -96,144 +114,208 @@ Designing mechanics and infrastructure for multiplayer environments.
 
 ---
 
-## `03` — Selected Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚡ XPerms</h3>
-
-Permission and rank infrastructure for Minecraft Bedrock Endstone servers.
-
-**Focus**
-
-`Permissions` `Ranks` `API` `Server Infrastructure`
-
-<a href="https://github.com/CYooBin10/XPerms">
-<img src="https://img.shields.io/github/stars/CYooBin10/XPerms?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧠 PXML</h3>
-
-A structured XML DSL and compiler designed for AI-driven code generation and self-healing workflows.
-
-**Focus**
-
-`Compiler` `DSL` `AI Tooling` `Automation`
-
-<a href="https://github.com/CYooBin10/pxml">
-<img src="https://img.shields.io/github/stars/CYooBin10/pxml?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🧬 VanillaMobs</h3>
-
-Optimized Minecraft mob infrastructure with custom AI, animation, attributes, movement, and pathfinding.
-
-**Focus**
-
-`AI` `Pathfinding` `Optimization` `Game Systems`
-
-<a href="https://github.com/CYooBin10/VanillaMobs">
-<img src="https://img.shields.io/github/stars/CYooBin10/VanillaMobs?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>❤️ MyLove</h3>
-
-A private mobile-first application built around memories, milestones, messaging, media, and personal data.
-
-**Focus**
-
-`Full-stack` `Mobile` `Real-time` `Data`
-
-<a href="https://github.com/CYooBin10/MyLove">
-<img src="https://img.shields.io/github/stars/CYooBin10/MyLove?style=flat-square&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/CYooBin10?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `04` — Technology
+## `03` / TECHNOLOGY
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,java,php,python,lua,postgres,sqlite,cmake,git,github,vscode&perline=11"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Minecraft%20Bedrock-62B47A?style=flat-square&logo=minecraft&logoColor=white"/>
-<img src="https://img.shields.io/badge/PocketMine--MP-111827?style=flat-square&logo=minecraft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Endstone-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/Roblox-111111?style=flat-square&logo=roblox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=flat-square&logo=cplusplus&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Java-0B1220?style=flat-square&logo=openjdk&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PHP-0B1220?style=flat-square&logo=php&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Lua-0B1220?style=flat-square&logo=lua&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Luau-0B1220?style=flat-square&logo=roblox&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/Claude-AI%20Coding%20Assistant-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI%20Codex-AI%20Coding%20Agent-111827?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minecraft%20Bedrock-0B1220?style=flat-square&logo=minecraft&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/PocketMine--MP-0B1220?style=flat-square&logo=minecraft&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Endstone-0B1220?style=flat-square&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Roblox-0B1220?style=flat-square&logo=roblox&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/REST%20API-0B1220?style=flat-square&logoColor=38BDF8"/>
 
-</div>
+<br>
 
----
-
-## `05` — GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYooBin10&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYooBin10&theme=tokyonight"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYooBin10&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Claude-0B1220?style=flat-square&logo=anthropic&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/OpenAI%20Codex-0B1220?style=flat-square&logo=openai&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `04` / SELECTED PROJECTS
 
-### `SYSTEMS • GAMES • TOOLS`
+<table>
+<tr>
 
-**Turning ideas into software that actually works.**
+<td width="50%" valign="top">
 
-<br/>
+<h3>XPerms</h3>
 
-<a href="mailto:tranhuybao000@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+Permission and rank infrastructure for Minecraft Bedrock Endstone servers.
+
+<br><br>
+
+`PERMISSIONS` `RANKS` `API` `INFRASTRUCTURE`
+
+<br><br>
+
+<a href="https://github.com/CYooBin10/XPerms">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 
-<br/><br/>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=CYooBin10&label=PROFILE%20VIEWS&color=0891b2&style=flat-square"/>
+<td width="50%" valign="top">
+
+<h3>PXML</h3>
+
+A structured XML DSL and compiler designed for AI-driven code generation and self-healing workflows.
+
+<br><br>
+
+`COMPILER` `DSL` `AI` `AUTOMATION`
+
+<br><br>
+
+<a href="https://github.com/CYooBin10/pxml">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>VanillaMobs</h3>
+
+Optimized Minecraft mob infrastructure with custom AI, movement, attributes, animations, and pathfinding.
+
+<br><br>
+
+`AI` `PATHFINDING` `PERFORMANCE` `GAME SYSTEMS`
+
+<br><br>
+
+<a href="https://github.com/CYooBin10/VanillaMobs">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>MyLove</h3>
+
+A private mobile-first application focused on memories, milestones, messaging, media, and personal data.
+
+<br><br>
+
+`FULL STACK` `MOBILE` `REAL TIME` `DATA`
+
+<br><br>
+
+<a href="https://github.com/CYooBin10/MyLove">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/CYooBin10?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+</div>
+
+---
+
+## `05` / DEVELOPMENT
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYooBin10&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYooBin10&theme=github_dark"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYooBin10&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CYooBin10&bg_color=050B14&color=38BDF8&line=0891B2&point=F8FAFC&area_color=0B2A4A&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `06` / CURRENTLY
+
+```text
+FOCUS
+
+Backend architecture
+Minecraft server infrastructure
+Plugin ecosystems
+Game systems
+Developer tooling
+AI-assisted development
+```
+
+I'm particularly interested in projects where **architecture and product experience matter equally**.
+
+If the idea is ambitious enough, I'm interested.
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0891B2"/>
+
+<br><br>
+
+<h2>Let's build something meaningful.</h2>
+
+<p>
+Open to technical collaboration, plugin development,<br>
+game systems, backend engineering, and ambitious software projects.
+</p>
+
+<br>
+
+<a href="mailto:tranhuybao000@gmail.com">
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-0891B2?style=for-the-badge&logo=gmail&logoColor=F8FAFC"/>
+</a>
+
+<br><br>
+
+<sub>© 2026 최유빈 · Backend & Game Systems Developer</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891B2,50:0B2A4A,100:050B14&section=footer"/>
 
 </div>
